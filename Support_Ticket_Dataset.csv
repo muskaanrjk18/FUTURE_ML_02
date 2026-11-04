@@ -1,0 +1,121 @@
+Ticket_ID,Ticket_Text,Category,Priority
+TKT0001,Payment failed but money was deducted from my bank account,Payment,High
+TKT0002,I was charged twice for the same order,Payment,High
+TKT0003,My UPI transaction is pending and amount is debited,Payment,High
+TKT0004,The payment page shows an error after I paid,Payment,High
+TKT0005,Please check my missing payment confirmation,Payment,Medium
+TKT0006,How can I download my payment receipt?,Payment,Low
+TKT0007,My card payment is not going through,Payment,High
+TKT0008,The invoice amount is different from the amount charged,Payment,Medium
+TKT0009,Can I use another payment method?,Payment,Low
+TKT0010,I need help understanding the payment status,Payment,Medium
+TKT0011,My refund has not arrived after the return,Refund,High
+TKT0012,Please refund the amount for my cancelled order,Refund,High
+TKT0013,I received a damaged item and want my money back,Refund,High
+TKT0014,The refund status has been pending for ten days,Refund,High
+TKT0015,When will I receive my refund?,Refund,Medium
+TKT0016,I want to know the refund policy,Refund,Low
+TKT0017,The refunded amount is less than expected,Refund,Medium
+TKT0018,How can I request a refund for my purchase?,Refund,Low
+TKT0019,My cancellation is complete but refund is not processed,Refund,High
+TKT0020,Please share an update about my refund,Refund,Medium
+TKT0021,The mobile app crashes whenever I try to open it,Technical,High
+TKT0022,I cannot log in because the app keeps showing an error,Technical,High
+TKT0023,The website is not loading on my browser,Technical,High
+TKT0024,I am unable to upload a document on the website,Technical,Medium
+TKT0025,The search button is not working,Technical,Medium
+TKT0026,The app is running slowly today,Technical,Medium
+TKT0027,I found a bug on the checkout page,Technical,High
+TKT0028,How do I update the application?,Technical,Low
+TKT0029,The screen becomes blank after clicking continue,Technical,High
+TKT0030,I need help changing notification settings,Technical,Low
+TKT0031,I forgot my password and cannot access my account,Account,High
+TKT0032,Please help me change my registered email address,Account,Medium
+TKT0033,My account has been locked unexpectedly,Account,High
+TKT0034,I want to update my phone number,Account,Low
+TKT0035,How can I delete my account?,Account,Medium
+TKT0036,I am not receiving the account verification OTP,Account,High
+TKT0037,Please help me update my profile information,Account,Low
+TKT0038,I cannot reset my password,Account,High
+TKT0039,How do I change my account name?,Account,Low
+TKT0040,Someone may have accessed my account without permission,Account,High
+TKT0041,My order has not been delivered yet,Shipping,High
+TKT0042,The tracking page has not updated for three days,Shipping,Medium
+TKT0043,My package is showing delivered but I did not receive it,Shipping,High
+TKT0044,I entered the wrong delivery address,Shipping,Medium
+TKT0045,Can you tell me the expected delivery date?,Shipping,Low
+TKT0046,The delivery agent did not call me,Shipping,Medium
+TKT0047,My order is delayed and I need it urgently,Shipping,High
+TKT0048,How can I track my shipment?,Shipping,Low
+TKT0049,The package arrived at the wrong location,Shipping,High
+TKT0050,Please update my shipping address before dispatch,Shipping,Medium
+TKT0051,The product I received is broken,Product,High
+TKT0052,The item is different from the product description,Product,High
+TKT0053,I received the wrong size,Product,Medium
+TKT0054,The product quality is not good,Product,Medium
+TKT0055,Can you provide more details about this product?,Product,Low
+TKT0056,Is this item available in another colour?,Product,Low
+TKT0057,Some parts are missing from the package,Product,High
+TKT0058,I want to know the product warranty period,Product,Low
+TKT0059,The product stopped working after two days,Product,High
+TKT0060,Please help me choose the correct product model,Product,Low
+TKT0061,Payment failed but money was deducted from my bank account Please assist.,Payment,High
+TKT0062,I was charged twice for the same order Please assist.,Payment,High
+TKT0063,My UPI transaction is pending and amount is debited Please assist.,Payment,High
+TKT0064,The payment page shows an error after I paid Please assist.,Payment,High
+TKT0065,Please check my missing payment confirmation Please assist.,Payment,Medium
+TKT0066,How can I download my payment receipt? Please assist.,Payment,Low
+TKT0067,My card payment is not going through Please assist.,Payment,High
+TKT0068,The invoice amount is different from the amount charged Please assist.,Payment,Medium
+TKT0069,Can I use another payment method? Please assist.,Payment,Low
+TKT0070,I need help understanding the payment status Please assist.,Payment,Medium
+TKT0071,My refund has not arrived after the return Please assist.,Refund,High
+TKT0072,Please refund the amount for my cancelled order Please assist.,Refund,High
+TKT0073,I received a damaged item and want my money back Please assist.,Refund,High
+TKT0074,The refund status has been pending for ten days Please assist.,Refund,High
+TKT0075,When will I receive my refund? Please assist.,Refund,Medium
+TKT0076,I want to know the refund policy Please assist.,Refund,Low
+TKT0077,The refunded amount is less than expected Please assist.,Refund,Medium
+TKT0078,How can I request a refund for my purchase? Please assist.,Refund,Low
+TKT0079,My cancellation is complete but refund is not processed Please assist.,Refund,High
+TKT0080,Please share an update about my refund Please assist.,Refund,Medium
+TKT0081,The mobile app crashes whenever I try to open it Please assist.,Technical,High
+TKT0082,I cannot log in because the app keeps showing an error Please assist.,Technical,High
+TKT0083,The website is not loading on my browser Please assist.,Technical,High
+TKT0084,I am unable to upload a document on the website Please assist.,Technical,Medium
+TKT0085,The search button is not working Please assist.,Technical,Medium
+TKT0086,The app is running slowly today Please assist.,Technical,Medium
+TKT0087,I found a bug on the checkout page Please assist.,Technical,High
+TKT0088,How do I update the application? Please assist.,Technical,Low
+TKT0089,The screen becomes blank after clicking continue Please assist.,Technical,High
+TKT0090,I need help changing notification settings Please assist.,Technical,Low
+TKT0091,I forgot my password and cannot access my account Please assist.,Account,High
+TKT0092,Please help me change my registered email address Please assist.,Account,Medium
+TKT0093,My account has been locked unexpectedly Please assist.,Account,High
+TKT0094,I want to update my phone number Please assist.,Account,Low
+TKT0095,How can I delete my account? Please assist.,Account,Medium
+TKT0096,I am not receiving the account verification OTP Please assist.,Account,High
+TKT0097,Please help me update my profile information Please assist.,Account,Low
+TKT0098,I cannot reset my password Please assist.,Account,High
+TKT0099,How do I change my account name? Please assist.,Account,Low
+TKT0100,Someone may have accessed my account without permission Please assist.,Account,High
+TKT0101,My order has not been delivered yet Please assist.,Shipping,High
+TKT0102,The tracking page has not updated for three days Please assist.,Shipping,Medium
+TKT0103,My package is showing delivered but I did not receive it Please assist.,Shipping,High
+TKT0104,I entered the wrong delivery address Please assist.,Shipping,Medium
+TKT0105,Can you tell me the expected delivery date? Please assist.,Shipping,Low
+TKT0106,The delivery agent did not call me Please assist.,Shipping,Medium
+TKT0107,My order is delayed and I need it urgently Please assist.,Shipping,High
+TKT0108,How can I track my shipment? Please assist.,Shipping,Low
+TKT0109,The package arrived at the wrong location Please assist.,Shipping,High
+TKT0110,Please update my shipping address before dispatch Please assist.,Shipping,Medium
+TKT0111,The product I received is broken Please assist.,Product,High
+TKT0112,The item is different from the product description Please assist.,Product,High
+TKT0113,I received the wrong size Please assist.,Product,Medium
+TKT0114,The product quality is not good Please assist.,Product,Medium
+TKT0115,Can you provide more details about this product? Please assist.,Product,Low
+TKT0116,Is this item available in another colour? Please assist.,Product,Low
+TKT0117,Some parts are missing from the package Please assist.,Product,High
+TKT0118,I want to know the product warranty period Please assist.,Product,Low
+TKT0119,The product stopped working after two days Please assist.,Product,High
+TKT0120,Please help me choose the correct product model Please assist.,Product,Low
